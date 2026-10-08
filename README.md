@@ -1,6 +1,6 @@
 # Workshop02 Reproducibility Test — GFPGAN Inference
 ## Project
-Repository: https://github.com/SiaDu/MLMPworkshop
+Repository: https://github.com/leo02531/MLMPworkshop
 Inference task: Face restoration using pretrained GFPGANv1.3 model, restore low-quality face images to high resolution.
 
 ## Repo map
